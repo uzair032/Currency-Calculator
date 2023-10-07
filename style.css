@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right, #03001e,#7303c0,#ec38bc);
+    color: white;
+}
+#result{
+    font-size: 32px;
+    background-color: #03001e;
+    text-align: center;
+    border-radius: 2px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
